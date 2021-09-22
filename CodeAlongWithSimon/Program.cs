@@ -69,6 +69,7 @@ namespace CodeAlongWithSimon
         {
             return 0;
         }
+        // Do not use "GoTo" =)
        /* static void Calculate(int num1 + int num2)
         {
             Console.WriteLine(num1 + num2);
